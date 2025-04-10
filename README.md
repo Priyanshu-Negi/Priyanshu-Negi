@@ -1,13 +1,13 @@
-# Hi there, I'm Priyanshu Negi! 👋
+# Turning Designs into Code — Hi, I'm Priyanshu 💻
 
 ## About Me
 
-I'm a passionate frontend developer from India with a keen eye for detail. I specialize in transforming designs into polished user interfaces using ReactJS and Tailwind CSS. While I may not have extensive experience in frontend development, I'm continually learning and expanding my skill set.
+I'm a frontend developer from Mumbai, Maharashtra who enjoys turning designs into clean and responsive user interfaces using ReactJS and Tailwind CSS. I'm still growing as a developer and always excited to learn new things and take on new challenges.
 
-- 🌱 I’m currently learning **TypeScript** and **Node.js**.
-- 💬 Ask me about **React** and **React Native**.
-- 📫 How to reach me: [negipriyanshu1704@gmail.com](mailto:negipriyanshu1704@gmail.com)
-- ⚡ Fun fact: Developers daily turn on their gf; the name of their gf is laptop.
+- 🌱 I’m currently learning **TypeScript** and **Node.js**
+- 💻 Always experimenting with new UI ideas and side projects
+- 📫 Reach me at: [negipriyanshu1704@gmail.com](mailto:negipriyanshu1704@gmail.com)
+- ⚡ Fun fact: I write more console logs than actual messages in a day 😄
 
 ## Skills
 
@@ -27,41 +27,23 @@ Here are a few glimpses of the projects I've worked on. Due to NDA constraints, 
 
 ### Zune Landing Page
 
-A real-time video chat application built with WebRTC and Socket.io. Enabled peer-to-peer video/audio streaming and supported multiple users in a room.
+Zune is the ultimate platform for innovators and creators to connect, collaborate, and bring ideas to life. Whether you’re building from scratch or joining an ongoing project, Zune matches you with like-minded individuals to form the perfect team.
 
-![Video Chat Application](images/video-chat.png)
+Explore projects with clear goals, roles, and opportunities. Collaborate seamlessly using built-in tools and grow within a community driven by creativity and ambition.
+
+![Zune Preview](images/zune-landing-page.png)
 
 **Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
-### WebAR
+### Nakshtra
 
-An augmented reality web application that brings AR experiences to browsers using marker-based tracking and 3D object rendering.
+Nakshtra is a platform where users can explore horoscopes, numerology, palmistry, angel card readings, and chat live with experts for personalized insights.
 
-![WebAR](images/webar.png)
+![Nakshtra](images/webar.png)
 
-**Tech Stack:** JavaScript, Three.js, AR.js
-
----
-
-### RideShare
-
-A ride-sharing platform that connects passengers and drivers in real-time. Includes features like live location tracking and route optimization.
-
-![RideShare](images/rideshare.png)
-
-**Tech Stack:** Node.js, Express, MongoDB, JavaScript
-
----
-
-### Portfolio
-
-My personal portfolio website showcasing my work and contact information.
-
-![Portfolio](https://priyanshunegi.framer.website/)
-
-**Tech Stack:** React, Tailwind CSS
+**Tech Stack:** React Native
 
 ## Connect with Me
 
@@ -70,4 +52,3 @@ Let's connect and collaborate!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/priyanshunegi)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/ux.priyanshu)
 [![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat)](https://www.threads.net/@negipriyanshuu)
-
