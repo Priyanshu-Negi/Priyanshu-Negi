@@ -31,7 +31,8 @@ Zune is the ultimate platform for innovators and creators to connect, collaborat
 
 Explore projects with clear goals, roles, and opportunities. Collaborate seamlessly using built-in tools and grow within a community driven by creativity and ambition.
 
-![Zune Preview](images/zune-landing-page.png)
+[![Zune Preview](images/zune-landing-page.png)](https://raw.githubusercontent.com/Priyanshu-Negi/Priyanshu-Negi/main/images/zune-landing-page.png
+)
 
 **Tech Stack:** HTML, CSS, JavaScript
 
@@ -39,11 +40,14 @@ Explore projects with clear goals, roles, and opportunities. Collaborate seamles
 
 ### Nakshtra
 
-Nakshtra is a platform where users can explore horoscopes, numerology, palmistry, angel card readings, and chat live with experts for personalized insights.
+Nakshtra is a spiritual and astrology-based app where users can get their daily horoscope, numerology, palmistry, angel card readings, and even chat live with experts.
 
-![Nakshtra](images/webar.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Priyanshu-Negi/Priyanshu-Negi/main/images/nakshatra-mobile-app.png" alt="Nakshtra Mobile App" width="45%" />
+  <img src="https://raw.githubusercontent.com/Priyanshu-Negi/Priyanshu-Negi/main/images/nakshatra-readings.png" alt="Nakshtra Readings" width="45%" />
+</p>
 
-**Tech Stack:** React Native
+**Tech Stack:** React Native, Firebase
 
 ## Connect with Me
 
