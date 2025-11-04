@@ -6,7 +6,7 @@ I'm a frontend developer from Mumbai, Maharashtra who enjoys turning designs int
 
 - 🌱 I’m currently learning **ReactJS** and **Node.js**
 - 💻 Always experimenting with new UI ideas and side projects
-- 📫 Reach me at: [negipriyanshu1704@gmail.com](mailto:negipriyanshu1704@gmail.com)
+- 📫 Reach me at: [hello@itspriyanshu.com](mailto:hello@itspriyanshu.com)
 - ⚡ Fun fact: I write more console logs than actual messages in a day 😄
 
 ## Skills
