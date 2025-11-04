@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a frontend developer from Mumbai, Maharashtra who enjoys turning designs into clean and responsive user interfaces using ReactJS and Tailwind CSS. I'm still growing as a developer and always excited to learn new things and take on new challenges.
+I'm a frontend developer from Mumbai, Maharashtra, crafting fast, responsive, and accessible web interfaces with React.js and Tailwind CSS. I specialize in building seamless user experiences that merge clean design with performant code. Constantly refining my craft, I enjoy turning ideas into interactive realities that scale and perform beautifully.
 
-- 🌱 I’m currently learning **ReactJS** and **Node.js**
+- 🚀 Currently deep-diving into **React.js, Node.js,** and modern frontend architectures
 - 💻 Always experimenting with new UI ideas and side projects
 - 📫 Reach me at: [hello@itspriyanshu.com](mailto:hello@itspriyanshu.com)
-- ⚡ Fun fact: I write more console logs than actual messages in a day 😄
+- ⚡ Fun fact: If pixel perfection was a sport, I’d be in the finals.
 
 ## Skills
 
