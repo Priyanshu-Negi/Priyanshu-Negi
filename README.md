@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a frontend developer from Mumbai, Maharashtra, crafting fast, responsive, and accessible web interfaces with React.js and Tailwind CSS. I specialize in building seamless user experiences that merge clean design with performant code. Constantly refining my craft, I enjoy turning ideas into interactive realities that scale and perform beautifully.
+I'm a frontend developer from Mumbai, Maharashtra, crafting fast, responsive, and accessible web and mobile applications. I focus on building seamless, scalable experiences where clean design meets performant code. Passionate about detail and usability, I love turning ideas into interactive products that feel effortless to use.
 
 - 🚀 Currently deep-diving into **React.js, Node.js,** and modern frontend architectures
 - 💻 Always experimenting with new UI ideas and side projects
