@@ -56,5 +56,3 @@ Nakshtra is a spiritual and astrology-based app where users can get their daily 
 Let's connect and collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/priyanshunegi)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/ux.priyanshu)
-[![Threads](https://img.shields.io/badge/-Threads-000000?logo=threads&logoColor=white&style=flat)](https://www.threads.net/@negipriyanshuu)
